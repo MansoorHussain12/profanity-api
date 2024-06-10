@@ -1,0 +1,6 @@
+name = "your-api-name"
+compatibility_date = "YYYY-MM-DD"
+
+[vars]
+VECTOR_URL = ""
+VECTOR_TOKEN = ""
